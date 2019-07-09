@@ -1,0 +1,26 @@
+/*Variables Generales*/
+:root {
+    /* variables de background */
+    --dark-black-bg-color: #0d0d0d;
+    --black-grey-bg-color: #171717;
+}
+
+.dark-black {
+    background-color: var(--dark-black-bg-color);
+}
+
+.black-grey {
+    background-color: var(--black-grey-bg-color);
+}
+
+.logo-ntflx {
+    width: 100px;
+}
+
+.thumb-img { width: 100%; }
+
+.card .card-content { padding: 0; }
+
+#home {
+    padding: 50px 0;
+}
